@@ -1,2 +1,2 @@
 # using python to align ligand
-A test for github
+align two ligand file by the pymol python command line
